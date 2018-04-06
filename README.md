@@ -1,5 +1,6 @@
 # Getting Started with ASP.NET Web API 2 (C#)
-by Mike Wasson
+
+Based on Mike Wasson's tutorial at Microsoft Docs.
 
 This is a Web API 2 project that showcases basic functionality.
 It's meant to be an introduction to the platform.
@@ -10,3 +11,4 @@ Source: [Microsoft Docs.](https://docs.microsoft.com/en-us/aspnet/web-api/overvi
 
 1. Visual Studio Community 2015 with Update 3.
 1. .NET Framework 4.6.2.
+1. IIS Express 10.0
